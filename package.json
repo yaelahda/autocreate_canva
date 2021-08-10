@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "delay": "^5.0.0",
+    "async-file": "^2.0.2",
+    "node-random-name": "^1.0.1",
+    "puppeteer": "^9.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
