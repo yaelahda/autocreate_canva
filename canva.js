@@ -3,7 +3,6 @@ const puppeteer = require('puppeteer');
 var random_name = require('node-random-name');
 const fs = require('async-file');
 const delay = require('delay');
-const { Console } = require('console');
 
 (async () => {
     console.log("////////////////////////////////////////////////////////////////////\n")
